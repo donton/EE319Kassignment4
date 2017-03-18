@@ -12,3 +12,12 @@
 *.o
 *.swp
 *.valvano
+*.iex
+Icon
+*.plg
+*.tra
+*.uvgui
+*.uvopt
+*.uvproj
+
+
