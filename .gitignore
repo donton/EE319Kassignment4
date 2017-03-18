@@ -19,5 +19,7 @@ Icon
 *.uvgui
 *.uvopt
 *.uvproj
+data.txt
+Startup.s
 
 
